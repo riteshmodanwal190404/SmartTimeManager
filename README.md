@@ -136,3 +136,4 @@ SmartTimeManager/
 │           └── ThemeColors.java
 │
 └── README.md
+ for Admin Dashboard = admin@tm.com/admin123
